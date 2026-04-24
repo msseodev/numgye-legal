@@ -3,7 +3,7 @@ layout: default
 title: Numgye Legal
 ---
 
-# Numgye (넘계) — Legal
+# Numgye (넘겨) — Legal
 
 - [개인정보처리방침 (한국어)](#개인정보처리방침)
 - [Privacy Policy (English)](#privacy-policy)
